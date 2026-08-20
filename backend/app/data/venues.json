@@ -1,0 +1,82 @@
+[
+  {
+    "id": "v1",
+    "name": "Grand Ballroom, Gurgaon",
+    "location": "Gurgaon",
+    "capacity": 200,
+    "price": 150000,
+    "rating": 4.5,
+    "type": ["corporate", "wedding"],
+    "facilities": ["Parking", "AC Hall", "Stage", "Projector"]
+  },
+  {
+    "id": "v2",
+    "name": "The Leela Convention Center",
+    "location": "Gurgaon",
+    "capacity": 300,
+    "price": 220000,
+    "rating": 4.8,
+    "type": ["corporate", "conference"],
+    "facilities": ["Valet Parking", "Catering Kitchen", "AV Setup", "Wifi"]
+  },
+  {
+    "id": "v3",
+    "name": "Skyline Rooftop Venue",
+    "location": "Gurgaon",
+    "capacity": 150,
+    "price": 110000,
+    "rating": 4.3,
+    "type": ["corporate", "birthday"],
+    "facilities": ["Open Air", "Bar Setup", "DJ Console"]
+  },
+  {
+    "id": "v4",
+    "name": "Delhi Business Hub",
+    "location": "Delhi",
+    "capacity": 250,
+    "price": 180000,
+    "rating": 4.4,
+    "type": ["corporate"],
+    "facilities": ["Conference Rooms", "Projector", "Parking"]
+  },
+  {
+    "id": "v5",
+    "name": "Noida Expo Hall",
+    "location": "Noida",
+    "capacity": 400,
+    "price": 200000,
+    "rating": 4.2,
+    "type": ["corporate", "exhibition"],
+    "facilities": ["Large Hall", "Loading Dock", "Parking"]
+  },
+  {
+    "id": "v6",
+    "name": "Cloud Nine Banquet",
+    "location": "Gurgaon",
+    "capacity": 180,
+    "price": 130000,
+    "rating": 4.1,
+    "type": ["corporate", "wedding", "birthday"],
+    "facilities": ["AC Hall", "Stage", "Catering Kitchen"]
+  },
+  {
+    "id": "v7",
+    "name": "Mumbai Waterfront Hall",
+    "location": "Mumbai",
+    "capacity": 220,
+    "price": 250000,
+    "rating": 4.7,
+    "type": ["corporate", "wedding"],
+    "facilities": ["Sea View", "Valet Parking", "AV Setup"]
+  },
+  {
+    "id": "v8",
+    "name": "Green Park Community Center",
+    "location": "Delhi",
+    "capacity": 120,
+    "price": 80000,
+    "rating": 4.0,
+    "type": ["corporate", "birthday"],
+    "facilities": ["Garden Area", "Parking"]
+  }
+]

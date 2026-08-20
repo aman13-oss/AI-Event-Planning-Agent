@@ -1,0 +1,12 @@
+[
+  { "id": "c1", "name": "ABC Catering", "category": "catering", "location": "Gurgaon", "price": 80000, "rating": 4.6, "notes": "Veg + Non-Veg, North Indian & Continental" },
+  { "id": "c2", "name": "Royal Feast Caterers", "category": "catering", "location": "Delhi", "price": 95000, "rating": 4.4, "notes": "Multi-cuisine, live counters" },
+  { "id": "d1", "name": "Bloom Decor Studio", "category": "decoration", "location": "Gurgaon", "price": 50000, "rating": 4.5, "notes": "Theme-based decor, floral arrangements" },
+  { "id": "d2", "name": "Elite Events Decor", "category": "decoration", "location": "Noida", "price": 65000, "rating": 4.3, "notes": "Premium stage & lighting decor" },
+  { "id": "p1", "name": "Lens & Light Photography", "category": "photography", "location": "Gurgaon", "price": 35000, "rating": 4.7, "notes": "Photo + videography, drone shots" },
+  { "id": "p2", "name": "Momentz Studio", "category": "photography", "location": "Delhi", "price": 28000, "rating": 4.2, "notes": "Photo only, same-day edits" },
+  { "id": "dj1", "name": "BeatDrop Entertainment", "category": "entertainment", "location": "Gurgaon", "price": 40000, "rating": 4.4, "notes": "DJ + sound system + anchor" },
+  { "id": "s1", "name": "SecureGuard Services", "category": "security", "location": "Gurgaon", "price": 25000, "rating": 4.3, "notes": "Trained security staff, crowd management" },
+  { "id": "t1", "name": "SwiftMove Transport", "category": "transport", "location": "Gurgaon", "price": 20000, "rating": 4.1, "notes": "Guest pickup/drop, valet coordination" },
+  { "id": "st1", "name": "EventPro Staffing", "category": "staff", "location": "Gurgaon", "price": 22000, "rating": 4.2, "notes": "Ushers, registration desk staff" }
+]
