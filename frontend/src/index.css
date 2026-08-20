@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  Custom styles */
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f8fafc;
+}
