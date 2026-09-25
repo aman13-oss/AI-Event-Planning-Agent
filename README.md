@@ -1,5 +1,6 @@
 # AI Event Planning Agent
 
+Hackathon Problem Statement: 
 An AI-powered event planning platform. User enters event requirements (type, location, date, guests, budget, theme, food) and the system generates a complete event plan: summary, budget breakdown, venue recommendations, vendor recommendations, timeline, and a preparation checklist. Users can then ask the system to re-optimize the plan for a new budget.
 
 ## 🚀 Live Demo
